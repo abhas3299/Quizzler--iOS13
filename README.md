@@ -26,7 +26,7 @@ Quizzler is a lightweight quiz app built in Swift that lets users test their pro
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/Quizzler--iOS13.git
+   git clone https://github.com/abhas3299/Quizzler--iOS13.git
 2. Open the project in Xcode:
    open Quizzler\ iOS13.xcodeproj
 
